@@ -1,1 +1,3 @@
 # cricket_result_analysis
+
+This project provides an exploratory data analysis (EDA) of cricket match results to uncover key insights from the gameplay data. The analysis is based on a dataset with detailed features, including home and away teams, innings information, ball-by-ball details, total runs, and individual player names. Using data visualization, this project highlights several key findings, such as the total runs scored by each team , a ranking of the top 10 batsmen by their total runs , and the top 10 bowlers determined by the number of overs they bowled. The analysis also examines the frequency of specific event types per innings, including wide balls, boundaries, and no balls, to better understand the dynamics of the matches
